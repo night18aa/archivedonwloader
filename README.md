@@ -1,6 +1,6 @@
-Archive.org Downloader (GUI Version)
+#Archive.org Downloader (GUI Version)#
 
-This application provides a graphical user interface for downloading files from URLs. It is designed to extract file links, download those files, and correct file names in the destination directory.
+*This application provides a graphical user interface for downloading files from URLs. It is designed to extract file links, download those files, and correct file names in the destination directory.*
 
 Features
 Link Extraction: Retrieves file links from the provided URL.
