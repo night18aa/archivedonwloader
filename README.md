@@ -19,7 +19,7 @@ Enter the URL: In the "Directory URL" field, input the URL from which you want t
 
 Ex: https://archive.org/download/chd_psx_eur/CHD-PSX-EUR/
 
-Dont use urls - https://archive.org/details/chd_psx_eur
+Dont use urls like this - https://archive.org/details/chd_psx_eur
 
 Select Destination Directory: Click the "Start Download" button and choose the directory where the files will be saved.
 
