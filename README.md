@@ -7,7 +7,7 @@ Link Extraction: Retrieves file links from the provided URL.
 File Download: Downloads the files and shows download progress.
 File Name Correction: Renames files in the destination directory to fix URL-encoded names.
 
-Requirements
+Requirements:
 Windows
 
 Usage
