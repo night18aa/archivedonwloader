@@ -27,6 +27,8 @@ Monitor Progress: The text area will display the download progress and other inf
 
 Completion: A message box will appear once the download and renaming process is complete.
 
+**Note: You can stop the app and continue later.**
+
 **Contributing**
 If you wish to contribute to this project, please buy me a coffee
 
