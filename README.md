@@ -15,6 +15,10 @@ Launch the Application: Open the GUI window.
 
 Enter the URL: In the "Directory URL" field, input the URL from which you want to download files.
 
+Ex: https://archive.org/download/chd_psx_eur/CHD-PSX-EUR/
+
+Dont use urls - https://archive.org/details/chd_psx_eur
+
 Select Destination Directory: Click the "Start Download" button and choose the directory where the files will be saved.
 
 Monitor Progress: The text area will display the download progress and other informational messages.
